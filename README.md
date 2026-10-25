@@ -31,7 +31,7 @@
 
 ```text
 Username  : Octojet666
-Focus     : Software development
+Focus     : Software development & Networking
 Interests : Web development, coding, and building projects
 Mindset   : Learn • Build • Improve
 ```

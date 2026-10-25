@@ -143,7 +143,7 @@ Mindset   : Learn • Build • Improve
 
 </div>
 
-> 📌 Pin your best repositories on your GitHub profile to showcase your work here.
+> 📌 "soon ill put hehe"
 
 ---
 

@@ -36,10 +36,10 @@ Interests : Web development, coding, and building projects
 Mindset   : Learn • Build • Improve
 ```
 
-- 💻 I enjoy exploring programming languages and development tools.
-- 🌐 Interested in frontend and backend web technologies.
-- 🧠 Learning by experimenting, building, and solving problems.
-- 🚀 Always looking for new things to learn and build.
+- Exploring programming languages and development tools.
+- Frontend and backend web technologies.
+- Experimenting, building and solving problems.
+- Always looking for new things to learn and build.
 
 ---
 

@@ -43,27 +43,27 @@ Mindset   : Learn • Build • Improve
 
 ---
 
+
 <!-- ==================== TECH STACK ==================== -->
 
-## `$ tech-stack`
+## 💻 Tech Stack & Tools
 
 <div align="center">
 
 ### Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,go,html,css&theme=dark" alt="Python, JavaScript, TypeScript, Go, HTML, CSS"/>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,go,html,css&theme=dark" alt="Python, JavaScript, TypeScript, Go, HTML and CSS"/>
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite&theme=dark" alt="React, Next.js, Vite"/>
 
-### Frontend
+### Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express.js"/>
 
-<img src="https://skillicons.dev/icons?i=react,html,css,js,ts&theme=dark" alt="Frontend technologies"/>
+### Databases & Backend Services
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&theme=dark" alt="MongoDB, MySQL, Firebase, Supabase"/>
 
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB and MySQL"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,postman&theme=dark" alt="Git, GitHub, VS Code, Docker, Vercel, Postman"/>
 
 </div>
 

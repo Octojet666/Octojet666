@@ -91,7 +91,7 @@ Mindset   : Learn • Build • Improve
 
 ---
 
-<!-- ==================== ACTIVITY GRAPH ==================== -->
+<!-- ==================== ACTIVITY GRAPH =================== -->
 
 ## `$ activity --graph`
 

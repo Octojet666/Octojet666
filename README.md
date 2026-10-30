@@ -74,11 +74,6 @@ Mindset   : Learn • Build • Improve
 
 <div align="center">
 
-<!-- include_all_commits removed: it makes the card much heavier and a common cause of failures -->
-<a href="https://github.com/Octojet666">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Octojet666&show_icons=true&hide_border=true&bg_color=0B1026&title_color=A5B4FC&text_color=C9D1F5&icon_color=818CF8&ring_color=8B5CF6" alt="GitHub statistics"/>
-</a>
-
 <a href="https://github.com/Octojet666">
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octojet666&layout=compact&hide_border=true&bg_color=0B1026&title_color=A5B4FC&text_color=C9D1F5&langs_count=8" alt="Most-used programming languages"/>
 </a>
@@ -86,30 +81,6 @@ Mindset   : Learn • Build • Improve
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Octojet666&hide_border=true&background=0B1026&ring=8B5CF6&fire=818CF8&currStreakLabel=A5B4FC&sideLabels=C9D1F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B93B8" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-<!-- ==================== ACTIVITY GRAPH =================== -->
-
-## `$ activity --graph`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Octojet666&bg_color=0B1026&color=C9D1F5&line=818CF8&point=A78BFA&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph"/>
-
-</div>
-
----
-
-<!-- ==================== TROPHIES ==================== -->
-
-## `$ achievements`
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Octojet666&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies"/>
 
 </div>
 

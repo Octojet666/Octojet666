@@ -143,7 +143,7 @@ Mindset   : Learn • Build • Improve
 
 </div>
 
-> 📌 "soon ill put hehe"
+> 📌 Click Here ^
 
 ---
 

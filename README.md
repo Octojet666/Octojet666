@@ -1,4 +1,3 @@
-
 <!-- ==================== HEADER ==================== -->
 
 <div align="center">
@@ -75,8 +74,9 @@ Mindset   : Learn • Build • Improve
 
 <div align="center">
 
+<!-- include_all_commits removed: it makes the card much heavier and a common cause of failures -->
 <a href="https://github.com/Octojet666">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Octojet666&show_icons=true&hide_border=true&bg_color=0B1026&title_color=A5B4FC&text_color=C9D1F5&icon_color=818CF8&ring_color=8B5CF6&include_all_commits=true" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Octojet666&show_icons=true&hide_border=true&bg_color=0B1026&title_color=A5B4FC&text_color=C9D1F5&icon_color=818CF8&ring_color=8B5CF6" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/Octojet666">
@@ -115,9 +115,10 @@ Mindset   : Learn • Build • Improve
 
 ---
 
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+<!-- ==================== SNAKE ==================== -->
+<!-- Needs .github/workflows/snake.yml in THIS repo (Octojet666/Octojet666) and one manual run -->
 
-## `$ contributions --animate`
+## `$ play --snake`
 
 <div align="center">
 
@@ -126,6 +127,17 @@ Mindset   : Learn • Build • Improve
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Octojet666/Octojet666/output/github-snake.svg"/>
   <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Octojet666/Octojet666/output/github-snake.svg" width="100%"/>
 </picture>
+
+<br/>
+
+<sub>The snake plays itself on my contribution graph. Want to drive it yourself?</sub>
+
+<br/><br/>
+
+<!-- Change this URL to wherever you host the game (GitHub Pages) -->
+<a href="https://octojet666.github.io/snake-game/">
+<img src="https://img.shields.io/badge/%E2%96%B6_PLAY-SNAKE_IN_YOUR_BROWSER-7C3AED?style=for-the-badge" alt="Play Snake in your browser"/>
+</a>
 
 </div>
 
@@ -143,7 +155,7 @@ Mindset   : Learn • Build • Improve
 
 </div>
 
-> 📌 Click Here ^
+> 📌 "soon ill put hehe"
 
 ---
 

@@ -15,5 +15,3 @@ jobs:
       - uses: Octojet666/haunted-contribution-graph@main
         with:
           output_branch: haunted
-          duration: 14
-          weeks: 12

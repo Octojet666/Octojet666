@@ -87,7 +87,7 @@ Mindset   : Learn • Build • Improve
 ---
 
 
-## `$ haunt --graveyard`
+## `$ haunt --happy-halloween`
 
 <div align="center">
 

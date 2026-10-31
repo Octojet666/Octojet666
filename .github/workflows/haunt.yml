@@ -10,7 +10,10 @@ permissions:
 jobs:
   haunt:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: Octojet666/haunted-contribution-graph@main
         with:
           output_branch: haunted
+          duration: 14
+          weeks: 12

@@ -86,6 +86,21 @@ Mindset   : Learn • Build • Improve
 
 ---
 
+
+## `$ haunt --graveyard`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Octojet666/Octojet666/haunted/haunted-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Octojet666/Octojet666/haunted/haunted-light.svg"/>
+  <img alt="Halloween contribution graph" src="https://raw.githubusercontent.com/Octojet666/Octojet666/haunted/haunted-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
 <!-- ==================== SNAKE ==================== -->
 <!-- Needs .github/workflows/snake.yml in THIS repo (Octojet666/Octojet666) and one manual run -->
 
@@ -104,21 +119,6 @@ Mindset   : Learn • Build • Improve
 <sub>The snake plays itself on my contribution graph. Want to drive it yourself?</sub>
 
 <br/><br/>
-
-## `$ haunt --graveyard`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Octojet666/Octojet666/haunted/haunted-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Octojet666/Octojet666/haunted/haunted-light.svg"/>
-  <img alt="Halloween contribution graph" src="https://raw.githubusercontent.com/Octojet666/Octojet666/haunted/haunted-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
 <!-- Change this URL to wherever you host the game (GitHub Pages) -->
 <a href="https://octojet666.github.io/snake-game/">
 <img src="https://img.shields.io/badge/%E2%96%B6_PLAY-SNAKE_IN_YOUR_BROWSER-7C3AED?style=for-the-badge" alt="Play Snake in your browser"/>

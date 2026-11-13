@@ -103,33 +103,35 @@ Portfolio : https://pathumhewage.octo-agency.workers.dev/
 
 ---
 
-<!-- ==================== SNAKE ==================== -->
-<!-- Needs .github/workflows/snake.yml in THIS repo (Octojet666/Octojet666) and one manual run -->
+<!-- ==================== LIGHT OR DARK ==================== -->
 
-## `$ play --snake`
+## `$ play --light-or-dark`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Octojet666/Octojet666/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Octojet666/Octojet666/output/github-snake.svg"/>
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Octojet666/Octojet666/output/github-snake.svg" width="100%"/>
-</picture>
-
-<br/>
-
-<sub>The snake plays itself on my contribution graph. Want to drive it yourself?</sub>
+<a href="https://octojet666.github.io/Light-or-Dark---Minigame/">
+<img src="https://img.shields.io/badge/%E2%96%B6_PLAY-LIGHT_OR_DARK_IN_YOUR_BROWSER-EF7D57?style=for-the-badge" alt="Play Light or Dark in your browser"/>
+</a>
 
 <br/><br/>
-<!-- Change this URL to wherever you host the game (GitHub Pages) -->
-<a href="https://octojet666.github.io/snake-game/">
-<img src="https://img.shields.io/badge/%E2%96%B6_PLAY-SNAKE_IN_YOUR_BROWSER-7C3AED?style=for-the-badge" alt="Play Snake in your browser"/>
-</a>
+
+<sub>Keep the last light burning. Catch the sparks, dodge the rain, beat the leaderboard.</sub>
 
 </div>
 
 ---
 
+## `$ cat ./leaderboard`
+
+<div align="center">
+
+<a href="https://octojet666.github.io/Light-or-Dark---Minigame/">
+<img src="https://ember-leaderboard.octo-agency.workers.dev/leaderboard.svg" width="100%" alt="Light or Dark leaderboard"/>
+</a>
+
+</div>
+
+---
 <!-- ==================== PROJECTS ==================== -->
 
 ## `$ ls ./featured-projects`

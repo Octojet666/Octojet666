@@ -126,8 +126,7 @@ Portfolio : https://pathumhewage.octo-agency.workers.dev/
 <div align="center">
 
 <a href="https://octojet666.github.io/Light-or-Dark---Minigame/">
-<img src="https://ember-leaderboard.octo-agency.workers.dev/leaderboard.svg" width="100%" alt="Light or Dark leaderboard"/>
-</a>
+<img src="https://raw.githubusercontent.com/Octojet666/Light-or-Dark---Minigame/main/leaderboard.svg" width="100%" alt="Light or Dark leaderboard"/></a>
 
 </div>
 
